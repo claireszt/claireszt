@@ -9,7 +9,7 @@
 
 ❤️ Amoureuse du front-end, passionnée par la création d'expériences utilisateur agréables et la concrétisation de designs.
 
-🚀 Excitée de connecter, collaborer et contribuer au merveilleux monde de la tech !
+🚀 Hâte de connecter, collaborer et contribuer au merveilleux monde de la tech !
 
 ---
 N'hésitez pas à me contacter pour échanger ! 😊
