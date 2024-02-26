@@ -1,16 +1,19 @@
-### Hi there 👋
+## Coucou 👋 Je m'appelle Claire !
 
-<!--
-**claireszt/claireszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Paris, France  
+🎂 31 ans  
 
-Here are some ideas to get you started:
+👩‍💻 J'ai commencé mon aventure dans le domaine de la tech en mai 2023 à l'Ada Tech School, en m'engageant dans le développement avec une touche de féminisme et d'inclusivité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Anciennement community manager et responsable service client dans trois startups. Toujours eu un intérêt pour la tech, donc me lancer dans le développement était une étape naturelle.
+
+❤️ Amoureuse du front-end, passionnée par la création d'expériences utilisateur agréables et la concrétisation de designs.
+
+🚀 Excitée de connecter, collaborer et contribuer au merveilleux monde de la tech !
+
+---
+N'hésitez pas à me contacter pour échanger ! 😊
+
+---
+> [!CAUTION]
+> Mes repos peuvent contenir des traces de caféine et de sessions de codage nocturnes ☕️
