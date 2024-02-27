@@ -7,7 +7,7 @@
 
 💼 Anciennement community manager et responsable service client dans trois startups. Toujours eu un intérêt pour la tech, donc me lancer dans le développement était une étape naturelle.
 
-❤️ Amoureuse du front-end, passionnée par la création d'expériences utilisateur agréables et la concrétisation de designs.
+❤️ Amoureuse du front-end, passionnée par la création d'expériences utilisateur agréables et la concrétisation de designs UX/UI.
 
 🚀 Hâte de connecter, collaborer et contribuer au merveilleux monde de la tech !
 
