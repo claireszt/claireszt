@@ -1,19 +1,24 @@
-## Coucou 👋 Je m'appelle Claire !
+# 👋 Hi there, I'm Claire!
 
-🌍 Paris, France  
-🎂 31 ans  
-
-👩‍💻 J'ai commencé mon aventure dans le domaine de la tech en mai 2023 à l'Ada Tech School, en m'engageant dans le développement avec une touche de féminisme et d'inclusivité.
-
-💼 Anciennement community manager et responsable service client dans trois startups. Toujours eu un intérêt pour la tech, donc me lancer dans le développement était une étape naturelle.
-
-❤️ Amoureuse du front-end, passionnée par la création d'expériences utilisateur agréables et la concrétisation de designs UX/UI.
-
-🚀 Hâte de connecter, collaborer et contribuer au merveilleux monde de la tech !
+🌍 Paris-based full-stack junior developer  
+✅ RNCP-certified from Ada Tech School 
+⚙️ Passionate about building useful, modern web apps with full-stack frameworks like **Next.js**  
+📦 Developer of tools like a book scraper, TV tracker & Pokédex  
+🔧 Currently exploring: **Ruby on Rails** (coming soon 👀)  
+📫 Open to work in **Paris** !
 
 ---
-N'hésitez pas à me contacter pour échanger ! 😊
+
+### 💻 Let's connect!  
+[LinkedIn](https://www.linkedin.com/in/claire-sztejnberg) • [Portfolio coming soon 🚧] • [Email](mailto:claireszt@gmail.com)  
 
 ---
-> [!CAUTION]
-> Mes repos peuvent contenir des traces de caféine et de sessions de codage nocturnes ☕️
+
+## 🇫🇷 En français ?
+
+👋 Coucou ! Je suis Claire, développeuse full-stack junior basée à Paris.  
+Diplômée de l'Ada Tech School (certification RNCP Niveau VI), je suis passionnée par la création d'applications web modernes et utiles — surtout avec des frameworks comme **Next.js**.  
+J'ai notamment développé un tracker de séries, un Pokédex et un scrapper de bibliothèque Babelio.  
+Je suis actuellement en train d'explorer **Ruby on Rails** et je suis **disponible pour un poste sur Paris**.
+
+À très vite ! 😊
