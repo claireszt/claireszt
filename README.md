@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Claire!
 
 🌍 Paris-based full-stack junior developer  
-✅ RNCP-certified from Ada Tech School 
+✅ RNCP-certified from Ada Tech School   
 ⚙️ Passionate about building useful, modern web apps with full-stack frameworks like **Next.js**  
 📦 Developer of tools like a book scraper, TV tracker & Pokédex  
 🔧 Currently exploring: **Ruby on Rails** (coming soon 👀)  
